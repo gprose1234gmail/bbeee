@@ -50,8 +50,8 @@ channel is also can be used instead of c ( /cplay = /channelplay )
 • /userbotjoin: Invite @NatsukiHelper Userbot to your chat 
  
 * 🙋‍♀️Assisten🙋‍♀️ *
-@NatsukiHelper
+@alpha_romeo_0
 * 🙋‍ Bot 🙋‍♀️ *
-@TheNatsukiBot
+@missharelyluna_bot
 """
 __mod_name__ = "Music Play"
